@@ -1,0 +1,13 @@
+.App-header {
+  text-align: center;
+}
+
+.App-header h1 {
+  text-shadow: 5px 5px 15px rgba(0,0,0,0.7);
+}
+
+.ride-type-selection-wrapper .btn:hover, .ride-type-selection-wrapper .btn.active {
+  color:#313131; 
+  background: #e6cfa6;
+  cursor: pointer;
+}
