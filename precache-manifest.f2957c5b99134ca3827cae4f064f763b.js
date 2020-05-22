@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59062a5e37451fd609b3cd1f6cf2b552",
+    "revision": "eb6272f2238d9ce721abd3b62ac17b3e",
     "url": "/samferda-frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samferda-frontend/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "da5a8ca04e6ac62eb9df",
+    "revision": "c2c3f689b89d779dc11b",
     "url": "/samferda-frontend/static/css/main.8ab46b3f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samferda-frontend/static/js/2.6276bf0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da5a8ca04e6ac62eb9df",
-    "url": "/samferda-frontend/static/js/main.fc2541fd.chunk.js"
+    "revision": "c2c3f689b89d779dc11b",
+    "url": "/samferda-frontend/static/js/main.5993450c.chunk.js"
   },
   {
     "revision": "3a5b50f74114e5e32b03",

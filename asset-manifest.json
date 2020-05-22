@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/samferda-frontend/static/css/main.8ab46b3f.chunk.css",
-    "main.js": "/samferda-frontend/static/js/main.fc2541fd.chunk.js",
-    "main.js.map": "/samferda-frontend/static/js/main.fc2541fd.chunk.js.map",
+    "main.js": "/samferda-frontend/static/js/main.5993450c.chunk.js",
+    "main.js.map": "/samferda-frontend/static/js/main.5993450c.chunk.js.map",
     "runtime-main.js": "/samferda-frontend/static/js/runtime-main.bb17779e.js",
     "runtime-main.js.map": "/samferda-frontend/static/js/runtime-main.bb17779e.js.map",
     "static/css/2.3c03f26f.chunk.css": "/samferda-frontend/static/css/2.3c03f26f.chunk.css",
     "static/js/2.6276bf0c.chunk.js": "/samferda-frontend/static/js/2.6276bf0c.chunk.js",
     "static/js/2.6276bf0c.chunk.js.map": "/samferda-frontend/static/js/2.6276bf0c.chunk.js.map",
     "index.html": "/samferda-frontend/index.html",
-    "precache-manifest.f93767979d1ff77b40f425419b931b27.js": "/samferda-frontend/precache-manifest.f93767979d1ff77b40f425419b931b27.js",
+    "precache-manifest.f2957c5b99134ca3827cae4f064f763b.js": "/samferda-frontend/precache-manifest.f2957c5b99134ca3827cae4f064f763b.js",
     "service-worker.js": "/samferda-frontend/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/samferda-frontend/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.8ab46b3f.chunk.css.map": "/samferda-frontend/static/css/main.8ab46b3f.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.6276bf0c.chunk.js",
     "static/css/main.8ab46b3f.chunk.css",
-    "static/js/main.fc2541fd.chunk.js"
+    "static/js/main.5993450c.chunk.js"
   ]
 }
