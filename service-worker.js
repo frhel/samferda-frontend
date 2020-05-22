@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/samferda-frontend/precache-manifest.f2957c5b99134ca3827cae4f064f763b.js"
+  "/samferda-frontend/precache-manifest.41c488ec96080138839fcc8e755a1032.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb6272f2238d9ce721abd3b62ac17b3e",
+    "revision": "9bb6e92a6c00320bbccb3993b4c3e752",
     "url": "/samferda-frontend/index.html"
   },
   {
