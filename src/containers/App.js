@@ -6,8 +6,8 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      urlBase: 'http://apis.is/rides/samferda-',
-      url: 'http://apis.is/rides/samferda-drivers',
+      urlBase: 'https://apis.is/rides/samferda-',
+      url: 'https://apis.is/rides/samferda-drivers',
       listType: 'drivers',
       rideList: []
     }
